@@ -1,10 +1,5 @@
 import java.util.LinkedList;
-/*
- * CSI4016
- * Assignment 2
- * Kaneez-Sabah Shaikh, 5546929
- * Depth first search algorithm prints path, number of cities visited, and number of cities expanded (searched)
- */
+
 public class DFS extends A1 {
 	
 	public DFS(int [][] adjacencyMatrix ){

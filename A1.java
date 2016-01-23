@@ -2,13 +2,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/*
- * CSI4016
- * Assignment 2
- * Kaneez-Sabah Shaikh, 5546929
- * Main method in A1 runs program
- * Assumptions: User knows the list of cities, and will type them correctly (in all capitals)
- */
 public class A1 {
 	String beginCity;
 	String endCity;

@@ -1,11 +1,6 @@
 import java.util.Comparator;
 import java.util.PriorityQueue;
-/*
- * CSI4016
- * Assignment 2
- * Kaneez-Sabah Shaikh, 5546929
- * Uniform cost search algorithm prints path, number of cities visited, and number of cities expanded (searched)
- */
+
 public class UCS extends A1{
 	
 	public UCS(int [][] adjacencyMatrix ){

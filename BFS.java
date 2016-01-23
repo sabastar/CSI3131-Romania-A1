@@ -1,10 +1,5 @@
 import java.util.LinkedList;
-/*
- * CSI4016
- * Assignment 2
- * Kaneez-Sabah Shaikh, 5546929
- * Breadth first search algorithm prints path, number of cities visited, and number of cities expanded (searched)
- */
+
 public class BFS extends A1{
 	
 	public BFS(int [][] adjacencyMatrix ){
